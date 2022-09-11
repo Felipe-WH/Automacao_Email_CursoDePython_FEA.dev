@@ -10,7 +10,7 @@ as pessoas que se inscreveram no forms de pré-inscrição.
 <li>4) filename2: Endereço do arquivo que existe no computador
 <br><br>
 
-<h3>2) Passoword -> Como criar senha secundária para usar no código: </h3>
+<h3>2) Password -> Como criar senha secundária para usar no código: </h3>
 
 ![image](https://user-images.githubusercontent.com/108158959/188296676-d863444b-1d77-48c0-bf4e-45bcd5dbe878.png)
 
